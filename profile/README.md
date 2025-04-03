@@ -1,12 +1,9 @@
-## Hi there 👋
+# 🥭 망고노트
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<img width="800" src="https://github.com/user-attachments/assets/f193fcfa-1b8b-4c8f-965f-e7cd5b8016ed"/>
+  
+망고노트 한 줄 🥭
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
